@@ -1,0 +1,11 @@
+{
+  "domain": "recuperator",
+  "name": "Recuperator",
+  "documentation": "https://github.com/yourusername/homeassistant-recuperator",
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
